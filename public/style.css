@@ -1,0 +1,16 @@
+#app {
+  width: 50%;
+  margin: 10rem auto;
+}
+
+.meetup-url {
+  min-width: 30rem;
+}
+
+.input-wrapper {
+  margin-top: 1rem;
+}
+
+#victimEmail {
+  width: 20rem;
+}
